@@ -22,4 +22,3 @@ It fetches real-time exchange rates from the [Frankfurter API](https://www.frank
 ---
 ## 🚀 Live Demo
 [**View Live Project Here**](https://your-netlify-site-name.netlify.app)  
-*(Replace with your actual Netlify link)*
